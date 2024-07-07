@@ -3,7 +3,7 @@
 - 🎓 I am pursuing a B.S. in Computer Science from FAST NUCES, Islamabad.
 - 💻 I am proficient in C++ and am learning Python and MATLAB.
 - 🌳 I am passionate about the environment and sustainability.
-- 💼 I offer LinkedIn review services on Upwork. Check the link in my bio1
+- 💼 I offer LinkedIn review services on Upwork. Check the link in my bio!
 - 🍔 I LOVE FAST FOOOOOOOD!!
 
 <!--
