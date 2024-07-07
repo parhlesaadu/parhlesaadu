@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+🎓 I am pursuing a B.S. in Computer Science from FAST NUCES, Islamabad.
+💻 I am proficient in C++ and am learning Python and MATLAB.
+🌳 I am passionate about the environment and sustainability.
+🍔 I LOVE FAST FOOOOOOOD!!
+
 <!--
 **parhlesaadu/parhlesaadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
