@@ -2,6 +2,7 @@
 
 - 🎓 I am pursuing a B.S. in Computer Science from FAST NUCES, Islamabad.
 - 💻 I am proficient in C++ and am learning Python and MATLAB.
+- ⚡ I am skilled in digital circuit design.
 - 🌏 I am fluent in English, Urdu and Hindi, and can understand some Punjabi as well.
 - 🎧 I can also read in Korean. Did I tell you that I love K-Pop?
 - 🌳 I am passionate about the environment and sustainability.
