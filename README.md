@@ -6,7 +6,6 @@
 - 🎧 I can also read in Korean. Did I tell you that I love K-Pop?
 - 🌳 I am passionate about the environment and sustainability.
 - 💼 I offer LinkedIn review services on Upwork. Check the link in my bio!
-- 🍔 I LOVE FAST FOOOOOOOD!!
 
 <!--
 **parhlesaadu/parhlesaadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
